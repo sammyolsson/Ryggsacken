@@ -1,0 +1,7 @@
+Programmet ska förutom att skriva ut och visa menyn innehålla möjlighet att 
+
+Spara ett föremål i ryggsäcken, användaren ska kunna mata in en sträng under menyval 1, detta ska sparas. Du kan göra det genom att tilldela en Console.ReadLine() till strängvariabeln. Se kapitel 3, och kom ihåg att du kan tilldela och deklarera på två olika platser.
+Den inmatade strängen ska kunnas skrivas ut i menyval 2.
+När användaren väljer menyval 3 ska strängens värde rensas eller nollställas. Tilldela strängvariabeln ett tomt ""-värde.
+Menyval 4 ska avsluta menyloopen.
+Kommentera och förklara din kod, försök att förklara och motivera dina val.
