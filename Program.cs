@@ -47,7 +47,7 @@ namespace Ryggsack
 
 					default:
 						// skrivs ut varje gång användaren väljer något annat än 1-4
-						Console.WriteLine("Du måste välj mellan 1-4.");
+						Console.WriteLine("Du måste välja mellan 1-4.");
 						break;
 				}
 			}
